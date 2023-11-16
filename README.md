@@ -1,2 +1,2 @@
-# genome_cricos
+# GECORS
 Get diploid genome cricle map 
