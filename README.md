@@ -18,19 +18,34 @@
   -o OUTPUT, --output OUTPUT
                         Path of output file
 
-### Chr_name_list file
+### Chr_name_list_1 file
 ```
-Chr1
-Chr2
-Chr3
-Chr4
-Chr5
-Chr6
-Chr7
-Chr8
-Chr9
-Chr10
-Chr11
+Chr1_1
+Chr2_1
+Chr3_1
+Chr4_1
+Chr5_1
+Chr6_1
+Chr7_1
+Chr8_1
+Chr9_1
+Chr10_1
+Chr11_1
+```
+
+### Chr_name_list_2 file
+```
+Chr1_2
+Chr2_2
+Chr3_2
+Chr4_2
+Chr5_2
+Chr6_2
+Chr7_2
+Chr8_2
+Chr9_2
+Chr10_2
+Chr11_2
 ```
 
 ### get two genome mapper file
