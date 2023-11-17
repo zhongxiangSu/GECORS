@@ -2,6 +2,7 @@
 ## Get diploid genome cricle map 
 
 ## positional arguments:
+```
   g1                    Path of target genome_1 fasta file
   g2                    Path of target genome_2 fasta file
   i1                    Path of target genome_1 index file, you can use : $samtools faidx genome_2
@@ -11,7 +12,7 @@
   gff1                  Path of target genome_1 gff file
   gff2                  Path of target genome_2 gff file
   map                   Path of two genome mapper file, You need to install mummer yourself.
-
+```
 ## options:
   -h, --help            show this help message and exit
   -o OUTPUT, --output OUTPUT
