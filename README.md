@@ -49,8 +49,8 @@ Chr11_2
 ```
 
 ### get two genome mapper file
+#### run the following commands:
 ```
-#run the following commands: 
-$nucmer --minmatch 2000 --maxgap=80 --mincluster=2000 -p G1_VS_G2 genome_1 genome_2;
+$nucmer --minmatch 2000 --maxgap=80 --mincluster=2000 -p G1_VS_G2 genome_1 genome_2
 $show-coords -rcl G1_VS_G2.delta > G1_VS_G2.coords
 ```
