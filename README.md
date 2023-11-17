@@ -1,6 +1,11 @@
 # GECORS
 ## Get diploid genome cricle map 
-
+## install 
+```
+git clone git@github.com:zhongxiangSu/GECORS.git
+cd GECORS
+python setup.py install
+```
 ## positional arguments:
 ```
   g1                    Path of target genome_1 fasta file
